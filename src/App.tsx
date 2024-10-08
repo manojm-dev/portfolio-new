@@ -39,7 +39,7 @@ function App() {
     <div className="min-h-screen bg-gradient text-text">
       <nav className="fixed top-0 left-0 right-0 z-50 nav-glass p-4">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
-          <h1 className="text-3xl font-bold text-highlight">John Doe</h1>
+          <h1 className="text-3xl font-bold text-highlight">Manoj M</h1>
           <div className="space-x-6">
             {['about', 'projects', 'skills'].map((section) => (
               <button
